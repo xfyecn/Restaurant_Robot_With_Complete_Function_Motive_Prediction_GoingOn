@@ -1,0 +1,2 @@
+# Restaurant_Robot_With_Complete_Function_Motive_Prediction_GoingOn
+ 正在做的本科生科研项目，餐厅机器人，具有完整的功能从迎宾到点菜服务，使用对人的动作预测主动服务顾客
